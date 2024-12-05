@@ -1,6 +1,5 @@
 import os
 import pickle
-from cryptography.fernet import Fernet
 from phe import paillier
 
 class HomomorphicEncryption:
